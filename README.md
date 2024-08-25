@@ -21,27 +21,43 @@ Currently, two official plugins are available:
 
 The following required functionality is completed:
 
- - [ ] A logical component structure in React is used to create the frontend of the app
- - [ ] At least five content creators are displayed on the homepage of the app
- - [ ] Each content creator item includes their name, a link to their channel/page, and a short description of their content
- - [ ] API calls use the async/await design pattern via Axios or fetch()
- - [ ] Clicking on a content creator item takes the user to their details page, which includes their name, url, and description
- - [ ] Each content creator has their own unique URL
- - [ ] The user can edit a content creator to change their name, url, or description
- - [ ] The user can delete a content creator
- - [ ] The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage
+<!-- 👉🏿👉🏿👉🏿 Make sure to check off completed functionality below -->
+ - [x] **A logical component structure in React is used to create the frontend of the app**
+ - [x] **At least five content creators are displayed on the homepage of the app**
+ - [x] **Each content creator item includes their name, a link to their channel/page, and a short description of their content**
+ - [x] **API calls use the async/await design pattern via Axios or fetch()**
+ - [x] **Clicking on a content creator item takes the user to their details page, which includes their name, url, and description**
+ - [x] **Each content creator has their own unique URL**
+ - [x] **The user can edit a content creator to change their name, url, or description**
+ - [x] **The user can delete a content creator**
+ - [x] **The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage**
 
 The following **optional** features are implemented:
 
-- [ ]  TailwindCSS is used to style HTML elements
-- [ ]  The content creator items are displayed in a creative format, like cards instead of a list
-- [ ]  An image of each content creator is shown on their content creator card
+ - [x] Picocss is used to style HTML elements
+ - [x] The content creator items are displayed in a creative format, like cards instead of a list
+ - [x] An image of each content creator is shown on their content creator card
+ - [x] A logical component structure in React is used to create the frontend of the app
+ - [x] At least five content creators are displayed on the homepage of the app
+ - [x] Each content creator item includes their name, a link to their channel/page, and a short description of their content
+ - [x] API calls use the async/await design pattern via Axios or fetch()
+ - [x] Clicking on a content creator item takes the user to their details page, which includes their name, url, and description
+ - [x] Each content creator has their own unique URL
+ - [x] The user can edit a content creator to change their name, url, or description
+ - [x] The user can delete a content creator
+ - [x] The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage
+
+The following **optional** features are implemented:
+
+- [x]  TailwindCSS is used to style HTML elements
+- [x]  The content creator items are displayed in a creative format, like cards instead of a list
+- [x]  An image of each content creator is shown on their content creator card
 
 The following **additional** features are implemented:
 
-* [ ] Responsive design that ensures the app is usable on both desktop and mobile devices
-* [ ] Form validation to ensure that required fields are filled out correctly
-* [ ] Confirmation dialog before deleting a content creator to prevent accidental deletions
+* [x] Responsive design that ensures the app is usable on both desktop and mobile devices
+* [x] Form validation to ensure that required fields are filled out correctly
+* [x] Confirmation dialog before deleting a content creator to prevent accidental deletions
 
 ## Video Walkthrough
 
